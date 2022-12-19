@@ -55,6 +55,12 @@ DATA_row = tf.constant([ contrl, coff_0, coff_1, coff_2, coff_3, coff_4, coff_5,
 			1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ], shape=(1, 1, 1, 30), dtype=tf.float32)
 ```
 
+### Files and directory ###
+
+1. ezgif.com-gif-maker (11).gif : record player during the training process.
+2. FlappyBird_small.gif : the result.
+3. README.md : readme file.
+
 ## Training ##
 
 You can see that start the scipt it start learning not joining the same point mistakes but when adjusting parameters to fit the equation may several times repeat since we keep try both conditions of games objective achivement and networks long run without overfittings as our AI working continue everyday.
