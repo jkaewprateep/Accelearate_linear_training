@@ -1,0 +1,2 @@
+# Accelearate_linear_training
+Accelerates linear relationship equation
