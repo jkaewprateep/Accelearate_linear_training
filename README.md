@@ -35,6 +35,7 @@ model = tf.keras.models.Sequential([
 
 ## Linear relationship and input ##
 
+There are 2 objectives long and short term when short term passing the ceiling and floor gap and longer term to continue with running number.
 ```
 contrl = ( player_y_array - next_pipe_dist_to_player_array )
 coff_0 = ( player_y_array - ( next_pipe_top_y_array + next_pipe_bottom_y_array - next_pipe_top_y_array ) )
@@ -56,8 +57,11 @@ DATA_row = tf.constant([ contrl, coff_0, coff_1, coff_2, coff_3, coff_4, coff_5,
 
 ## Training ##
 
+You can see that start the scipt it start learning not joining the same point mistakes but when adjusting parameters to fit the equation may several times repeart since we keep try both conditions of games objective achivement and networks long run without overfittings as our AI working continue everyday.
+
 ![Alt text](https://github.com/jkaewprateep/Accelearate_linear_training/blob/main/ezgif.com-gif-maker%20(11).gif?raw=true "Title")
 
+The finish it will acclerate fly without tired, this is AI.
 
 ## Result ##
 
