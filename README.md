@@ -1,7 +1,14 @@
 # Accelearate_linear_training
-Accelerates linear relationship equation
+
+Accelerates linear relationship equation training, these variables is slected by intention to study about linear relationship among 2 equations with non linear relation. Inputs are from the same equations, distance and player_y_array when player Y increase distance also increase but turnback point to continue player_Y_array decrease when second equation is stabelize with the first equation when first increase its second equation decrease. The third and fourth is running number to indicated longer objective.
+
+### There are 2 objectives ####
+
+1. Go though the gap between floor and ceiling to survive.
+2. Player continue to continue adding into the running number.
 
 ## Up-Samping and MaxPool technique ## 
+
 👧💬 It is you concatinate input of your series with same value then remove of less significant, it is linearly function. Leave those complexing method and think it this way first networks learn this way then you finish try more complex networks.
 
 ```
