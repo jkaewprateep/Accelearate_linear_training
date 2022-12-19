@@ -57,7 +57,7 @@ DATA_row = tf.constant([ contrl, coff_0, coff_1, coff_2, coff_3, coff_4, coff_5,
 
 ## Training ##
 
-You can see that start the scipt it start learning not joining the same point mistakes but when adjusting parameters to fit the equation may several times repeart since we keep try both conditions of games objective achivement and networks long run without overfittings as our AI working continue everyday.
+You can see that start the scipt it start learning not joining the same point mistakes but when adjusting parameters to fit the equation may several times repeat since we keep try both conditions of games objective achivement and networks long run without overfittings as our AI working continue everyday.
 
 ![Alt text](https://github.com/jkaewprateep/Accelearate_linear_training/blob/main/ezgif.com-gif-maker%20(11).gif?raw=true "Title")
 
