@@ -24,3 +24,12 @@ model = tf.keras.models.Sequential([
 	tf.keras.layers.Dropout(.2, input_shape=(256,))
 ])
 ```
+
+## Training ##
+
+![Alt text](https://github.com/jkaewprateep/Accelearate_linear_training/blob/main/ezgif.com-gif-maker%20(11).gif?raw=true "Title")
+
+
+## Result ##
+
+![Alt text](https://github.com/jkaewprateep/Accelearate_linear_training/blob/main/FlappyBird_small.gif?raw=true "Title")
