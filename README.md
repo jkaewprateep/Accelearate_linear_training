@@ -1,7 +1,8 @@
 # Accelearate_linear_training
 Accelerates linear relationship equation
 
-## Up-Samping and MaxPool technique ##
+## Up-Samping and MaxPool technique ## 
+👧💬 It is you concatinate input of your series with same value then remove of less significant, it is linearly function. Leave those complexing method and think it this way first networks learn this way then you finish try more complex networks.
 
 ```
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
